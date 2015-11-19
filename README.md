@@ -3,6 +3,9 @@ GDB: Graph Database Benchmark
 GDB is a distributed graph database benchmarking framework.
 GDB's purpose is to test and compare different Blueprints-compliant graph databases. This tool can be used to simulate real graph database work loads with any number of concurrent clients performing any type of operation on any type of graph.
 
+This Work is a joint work with *Valentin Vansteenberghe* during his internship in [EURA NOVA]: http://research.euranova.eu/
+For more details you can read the research paper: [An empirical comparison of graph databases]: http://research.euranova.eu/create_download.php?type=publications&title=AN+EMPIRICAL+COMPARISON+OF+GRAPH+DATABASES&file=55b094eece0e54da8a964b88c9d17deee297a12a
+
 Requirements
 ------------
 -	Java JDK 7
@@ -16,7 +19,7 @@ Installation
 ### Cloning the project ###
 To clone GDB sources from Github, open a command prompt, go to the folder where
 you want to clone the project and type:
-*git clone https://github.com/Morro/GraphDBBenchmark.git*
+*git clone https://github.com/Jsalim/GraphDB-Benchmark.git*
 
 ### Building GDB ###
 To build GDB on a Linux host, run build.sh (resp. build.bat on a Windows host). This will create a GDB-Distrib directory containing executable files.
