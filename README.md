@@ -3,8 +3,8 @@ GDB: Graph Database Benchmark
 GDB is a distributed graph database benchmarking framework.
 GDB's purpose is to test and compare different Blueprints-compliant graph databases. This tool can be used to simulate real graph database work loads with any number of concurrent clients performing any type of operation on any type of graph.
 
-This Work is a joint work with *Valentin Vansteenberghe* during his internship in [EURA NOVA]: http://research.euranova.eu/
-For more details you can read the research paper: [An empirical comparison of graph databases]: http://research.euranova.eu/create_download.php?type=publications&title=AN+EMPIRICAL+COMPARISON+OF+GRAPH+DATABASES&file=55b094eece0e54da8a964b88c9d17deee297a12a
+This Work is a joint work with *Valentin Vansteenberghe* during his internship in [EURA NOVA](http://research.euranova.eu/)
+For more details you can read the research paper: [An empirical comparison of graph databases](http://research.euranova.eu/create_download.php?type=publications&title=AN+EMPIRICAL+COMPARISON+OF+GRAPH+DATABASES&file=55b094eece0e54da8a964b88c9d17deee297a12a)
 
 Requirements
 ------------
